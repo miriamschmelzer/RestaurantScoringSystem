@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="AED581">#aed581</color>
+    <color name="primary_dark_material_light">#7da453</color>
+    <color name="accent_material_light">#7da453</color>
+    <color name="FF7DA453">#7da453</color>
+    <color name="Antrazit">#424242</color>
+    <color name="Mat_Grey">#757575</color>
+</resources>
